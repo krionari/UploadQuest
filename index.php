@@ -12,7 +12,7 @@
 <input type="file" name="files[]" multiple>
     <input type="submit" value="Upload">
 
-    <a href="show.php">Show images</a>
+    <a href="affichage.php">Show images</a>
 
 
 </form>
